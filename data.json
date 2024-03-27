@@ -1,0 +1,20 @@
+[
+    {
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "year": 2020,
+    "precio": 30000,
+    "puertas": 4,
+    "color": "Blanco",
+    "transmision": "automatico"
+},
+{
+  "marca": "BMW",
+  "modelo": "Serie 3",
+  "year": 2020,
+  "precio": 30000,
+  "puertas": 4,
+  "color": "Blanco",
+  "transmision": "automatico"
+}
+]
